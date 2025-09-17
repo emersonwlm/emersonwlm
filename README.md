@@ -74,5 +74,5 @@ Busco aprimorar minhas habilidades por meio de documentação oficial e projetos
 <br>
 <br>
 
-<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/emersonwlm/emersonwlm/output/snake.svg" alt="Snake animation" />
 
