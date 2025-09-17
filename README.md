@@ -29,7 +29,7 @@ projetos pessoais e estudos contínuos. Utilizo o Visual Studio como IDE.
   
   ### Contatos 📫
 <div style="display: flex; gap: 24px; align-items: center; justify-content: center; margin-top: 16px;">
-  <a href="https://mail.google.com/mail/u/1/#inbox?compose=new" target="_blank" title="Gmail">
+  <a href="emerson.sp400@gmail.com" target="_blank" title="Gmail">
     <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" height="40" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/emersonw-lima/" target="_blank" title="LinkedIn">
