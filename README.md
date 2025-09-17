@@ -6,25 +6,21 @@
 
 Me chamo Emerson Wesley e sou apaixonado por tecnologia. Formado como Técnico em Mecatrônica - SENAI e atualmente curso o 4º semestre de Análise e Desenvolvimento de Sistemas - Faculdade Impacta.
 Tenho experiência com C#, .NET, ASP.NET, JavaScript, HTML5, CSS3 e SQL Server, com foco no desenvolvimento Back-end. Busco constantemente evoluir minhas habilidades por meio de documentação oficial,
-projetos pessoais e estudos contínuos. Utilizo o Visual Studio Code como principal ambiente de desenvolvimento e testes.
+projetos pessoais e estudos contínuos. Utilizo o Visual Studio como IDE.
 
 ---
 
 ### Linguagens e Tecnologias 🤖 
-
-
-<div align="left">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="28"/>
-  <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=9f7aea" height="40" style="margin: 7px;"/>  
-  <img src="https://img.shields.io/badge/ASP.NET-000000?style=for-the-badge&logo=.net&logoColor=9f7aea" height="40" style="margin: 7px;"/>  
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=9f7aea" height="40" style="margin: 7px;"/>  
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=9f7aea" height="40" style="margin: 7px;"/>  
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=9f7aea" height="40" style="margin: 7px;"/>  
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=9f7aea" height="40" style="margin: 7px;"/>  
-  <img src="https://img.shields.io/badge/SQL%20Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=9f7aea" height="40" style="margin: 7px;"/>  
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=9f7aea" height="40" style="margin: 7px;"/>  
-
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 24px; margin-top: 16px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET" title=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="ASP.NET" title="ASP.NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="SQL Server" title="SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
 </div>
 
 ---
@@ -32,10 +28,16 @@ projetos pessoais e estudos contínuos. Utilizo o Visual Studio Code como princi
 <div> 
   
   ### Contatos 📫
-  
-  <a href = "mailto:emerson.sp400@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/emersonw-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+<div style="display: flex; gap: 24px; align-items: center; justify-content: center; margin-top: 16px;">
+  <a href="mailto:emerson.sp400@gmail.com" target="_blank" title="Gmail">
+    <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" height="40" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/emersonw-lima/" target="_blank" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
+  </a>
+</div>
+
+   
 </div>
 
 <img src="https://raw.githubusercontent.com/emersonwlm/emersonwlm/output/snake.svg" alt="Snake animation" />
