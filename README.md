@@ -73,22 +73,6 @@ Busco aprimorar minhas habilidades por meio de documentação oficial e projetos
 
 <br>
 <br>
-<div>
-  <a href="https://www.linkedin.com/in/emersonw-lima/" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-      style="margin-right: 20px;" 
-    />
-  </a>
-  
-  <a href="mailto:emerson.sp400@gmail.com" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" 
-      style="margin-right: 20px;" 
-    />
-  </a>
-</div>
 
-<br/>
-<br/>
+<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
 
