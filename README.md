@@ -1,16 +1,17 @@
-# 👨🏻‍💻 Emerson Wesley  
+# Emerson Wesley 👨🏻‍💻
 
 **`Back-end Developer | C# • .NET • ASP.NET • SQL Server`**
 
-Olá 👋🏻, meu nome é **Emerson Wesley**, tenho 23 anos e sou natural de São Paulo.  
-Sou formado como **Técnico em Mecatrônica** e atualmente curso **Análise e Desenvolvimento de Sistemas** na **Faculdade Impacta**.  
-Possuo experiência em **C#, .NET, Asp.Net, JavaScript, HTML5, CSS3 e SQL Server**, com foco no **desenvolvimento Back-end**.  
-Busco constantemente evoluir minhas habilidades por meio de **documentação oficial, projetos pessoais e estudos contínuos**.  
-Utilizo o **Visual Studio Code** como principal ambiente de desenvolvimento e testes.  
+👋🏻 Olá, seja bem-vindo ao meu portfólio!
+
+Me chamo Emerson Wesley e sou apaixonado por tecnologia. Formado como Técnico em Mecatrônica - SENAI e atualmente curso o 4º semestre de Análise e Desenvolvimento de Sistemas - Faculdade Impacta.
+Tenho experiência com C#, .NET, ASP.NET, JavaScript, HTML5, CSS3 e SQL Server, com foco no desenvolvimento Back-end. Busco constantemente evoluir minhas habilidades por meio de documentação oficial,
+projetos pessoais e estudos contínuos. Utilizo o Visual Studio Code como principal ambiente de desenvolvimento e testes.
 
 ---
 
-### 🤖 Linguagens e Tecnologias   
+### Linguagens e Tecnologias 🤖 
+
 
 <div align="left">
 
@@ -29,6 +30,9 @@ Utilizo o **Visual Studio Code** como principal ambiente de desenvolvimento e te
 ---
 
 <div> 
+  
+  ### Contatos 📫
+  
   <a href = "mailto:emerson.sp400@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/emersonw-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
