@@ -10,21 +10,28 @@ Utilizo o **Visual Studio Code** como principal ambiente de desenvolvimento e te
 
 ---
 
-### 🤖 Linguagens e Tecnologias  
+### 🤖 Linguagens e Tecnologias   
 
-<div align="center">
+<div align="left">
 
-![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=9f7aea)  
-![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=9f7aea)  
-![ASP.NET](https://img.shields.io/badge/ASP.NET-000000?style=for-the-badge&logo=.net&logoColor=9f7aea)  
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=9f7aea)  
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=9f7aea)  
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=9f7aea)  
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=9f7aea)  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=9f7aea)  
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=9f7aea)  
-![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=9f7aea)  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="28"/>
+  <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=9f7aea" height="40" style="margin: 7px;"/>  
+  <img src="https://img.shields.io/badge/ASP.NET-000000?style=for-the-badge&logo=.net&logoColor=9f7aea" height="40" style="margin: 7px;"/>  
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=9f7aea" height="40" style="margin: 7px;"/>  
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=9f7aea" height="40" style="margin: 7px;"/>  
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=9f7aea" height="40" style="margin: 7px;"/>  
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=9f7aea" height="40" style="margin: 7px;"/>  
+  <img src="https://img.shields.io/badge/SQL%20Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=9f7aea" height="40" style="margin: 7px;"/>  
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=9f7aea" height="40" style="margin: 7px;"/>  
 
-</div>  
+</div>
+
+---
+
+<div> 
+  <a href = "mailto:emerson.sp400@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/emersonw-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
 <img src="https://raw.githubusercontent.com/emersonwlm/emersonwlm/output/snake.svg" alt="Snake animation" />
