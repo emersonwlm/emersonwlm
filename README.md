@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Emerson Wesley  
 
-**`Back-end Developer | C# • .NET • SQL Server`**
+**`Back-end Developer | C# • .NET • ASP.NET • SQL Server`**
 
 Olá 👋🏻, meu nome é **Emerson Wesley**, tenho 23 anos e sou natural de São Paulo.  
 Sou formado como **Técnico em Mecatrônica** e atualmente curso **Análise e Desenvolvimento de Sistemas** na **Faculdade Impacta**.  
