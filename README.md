@@ -1,81 +1,30 @@
-# 👩🏻‍💻 Emerson Wesley
+# 👨🏻‍💻 Emerson Wesley  
 
-**`Desenvolvedor Back-end`**
+**`Back-end Developer | C# • .NET • SQL Server`**
 
-Olá👋🏻 me chamo Emerson Wesley, tenho 23 anos e sou natural do São Paulo, Formado como técnico em mecatrônica. 
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Impacta. Tenho conhecimento em C#, .NET, Javascript, HTML5, CSS3 e SQL Server. 
-Busco aprimorar minhas habilidades por meio de documentação oficial e projetos pessoais. Utilizo Visual Studio Code para desenvolver e testar aplicações.
+Olá 👋🏻, meu nome é **Emerson Wesley**, tenho 23 anos e sou natural de São Paulo.  
+Sou formado como **Técnico em Mecatrônica** e atualmente curso **Análise e Desenvolvimento de Sistemas** na **Faculdade Impacta**.  
+Possuo experiência em **C#, .NET, Asp.Net, JavaScript, HTML5, CSS3 e SQL Server**, com foco no **desenvolvimento Back-end**.  
+Busco constantemente evoluir minhas habilidades por meio de **documentação oficial, projetos pessoais e estudos contínuos**.  
+Utilizo o **Visual Studio Code** como principal ambiente de desenvolvimento e testes.  
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias  
 
-<img 
-  align="left" 
-  alt="C#" 
-  title="C#" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
-/>
+<div align="center">
 
-<img 
-  align="left" 
-  alt="ASP.NET" 
-  title="ASP.NET" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"
-/>
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=9f7aea)  
+![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=9f7aea)  
+![ASP.NET](https://img.shields.io/badge/ASP.NET-000000?style=for-the-badge&logo=.net&logoColor=9f7aea)  
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=9f7aea)  
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=9f7aea)  
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=9f7aea)  
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=9f7aea)  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=9f7aea)  
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=9f7aea)  
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=9f7aea)  
 
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-
-<img 
-  align="left" 
-  alt="Git" 
-  title="Git" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-/>
-<br>
-<div> 
-  <a href = "mailto:emerson.sp400@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/emersonw-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+</div>  
 
 <img src="https://raw.githubusercontent.com/emersonwlm/emersonwlm/output/snake.svg" alt="Snake animation" />
-
