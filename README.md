@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Emerson Wesley
 
-**`Desenvolvedora Back-end`**
+**`Desenvolvedor Back-end`**
 
 Olá👋🏻 me chamo Emerson Wesley, tenho 23 anos e sou natural do São Paulo, Formado como técnico em mecatrônica. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Impacta. Tenho conhecimento em C#, .NET, Javascript, HTML5, CSS3 e SQL Server. 
 Busco aprimorar minhas habilidades por meio de documentação oficial e projetos pessoais. Utilizo Visual Studio Code para desenvolver e testar aplicações.
@@ -70,15 +70,11 @@ Busco aprimorar minhas habilidades por meio de documentação oficial e projetos
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
 />
+<br>
 <div> 
-  
   <a href = "mailto:emerson.sp400@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/emersonw-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
-
-<br>
-<br>
 
 <img src="https://raw.githubusercontent.com/emersonwlm/emersonwlm/output/snake.svg" alt="Snake animation" />
 
