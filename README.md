@@ -2,7 +2,7 @@
 
 **`Back-end Developer | C# • .NET • ASP.NET • SQL Server`**
 
-👋🏻 Olá, seja bem-vindo ao meu portfólio!
+👋🏻 Olá, seja bem-vindo ao meu portfólio!!
 
 Me chamo Emerson Wesley e sou apaixonado por tecnologia. Formado como Técnico em Mecatrônica - SENAI e atualmente curso o 4º semestre de Análise e Desenvolvimento de Sistemas - Faculdade Impacta.
 Tenho experiência com C#, .NET, ASP.NET, JavaScript, HTML5, CSS3 e SQL Server, com foco no desenvolvimento Back-end. Busco constantemente evoluir minhas habilidades por meio de documentação oficial,
@@ -37,7 +37,6 @@ projetos pessoais e estudos contínuos. Utilizo o Visual Studio como IDE.
   </a>
 </div>
 
-   
-</div>
+---
 
 <img src="https://raw.githubusercontent.com/emersonwlm/emersonwlm/output/snake.svg" alt="Snake animation" />
