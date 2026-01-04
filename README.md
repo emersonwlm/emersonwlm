@@ -29,7 +29,7 @@ projetos pessoais e estudos contínuos. Utilizo InteliJ e Eclipse para desenvolv
   <a href="emerson.sp400@gmail.com" target="_blank" title="Gmail">
     <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" height="40" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/emersonw-lima/" target="_blank" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/emersonwlima/" target="_blank" title="LinkedIn">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
   </a>
 </div>
