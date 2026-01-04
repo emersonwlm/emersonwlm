@@ -5,7 +5,7 @@
 👋🏻 Olá, seja bem-vindo ao meu portfólio!!
 
 Me chamo Emerson Wesley e sou apaixonado por tecnologia. Formado como Técnico em Mecatrônica - SENAI e atualmente curso o 4º semestre de Análise e Desenvolvimento de Sistemas - Faculdade Impacta.
-Tenho experiência com Java, Spring Boot, JavaScript, HTML5, CSS3 e SQL Server, com foco no desenvolvimento Back-end. Busco constantemente evoluir minhas habilidades por meio de documentação oficial,
+Tenho experiência com JavaScript, HTML5, CSS3 e SQL Server. Busco constantemente evoluir minhas habilidades por meio de documentação oficial,
 projetos pessoais e estudos contínuos. Utilizo InteliJ e Eclipse para desenvolver meus códigos.
 
 ---
