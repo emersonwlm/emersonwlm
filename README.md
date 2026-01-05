@@ -1,6 +1,6 @@
 # Emerson Wesley 👨🏻‍💻
 
-**`Desenvolvedor Back-end| Java • SQL • JavaScript `**
+**`Desenvolvedor Back-end| Java • SQL • Js `**
 
 👋🏻 Olá, seja bem-vindo ao meu portfólio!!
 
