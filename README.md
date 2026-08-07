@@ -1,6 +1,6 @@
 # Emerson Wesley 👨🏻‍💻
 
-**`Desenvolvedor Back-end| Java • SQL • Js `**
+**`Desenvolvedor Back-end Java • SQL • Spring Boot `**
 
 👋🏻 Olá, seja bem-vindo ao meu portfólio!!
 
