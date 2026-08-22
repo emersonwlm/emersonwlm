@@ -1,40 +1,60 @@
-# Emerson Wesley 👨🏻‍💻
+# Olá 👋🏽, sou Emerson!
 
-**`Desenvolvedor Back-end Java • SQL • Spring Boot `**
+🚀 **Engenheiro de Software Backend | Java & Spring Boot** 🇧🇷 Brasil
 
-👋🏻 Olá, seja bem-vindo ao meu portfólio!!
+Atuo na construção de **soluções backend robustas, escaláveis e de alto desempenho**, com foco em **microsserviços, integridade de dados e código server-side limpo e eficiente**.
 
-Me chamo Emerson Wesley e sou apaixonado por tecnologia. ARecentemente concluí minha graduação em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta de Tecnologia.
-E atualmente curso Sistemas de Informação na mesma instituição. Tenho experiência com JavaScript, HTML5, CSS3 e SQL Server. 
-Busco constantemente evoluir minhas habilidades por meio de documentação oficial, projetos pessoais e estudos contínuos. Utilizo InteliJ e Eclipse para desenvolver meus códigos.
+Com uma abordagem orientada à lógica e à qualidade de código, priorizo **arquitetura limpa, otimização de bancos de dados e estratégias cloud-native** para desenvolver sistemas resilientes que sustentam aplicações de nível empresarial.
 
 ---
 
-### Linguagens e Tecnologias 🤖 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 24px; margin-top: 16px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring" title="Spring" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="SQL Server" title="SQL Server" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
-</div>
+## 🌐 Onde me encontrar
 
----
-
-<div> 
-  
-  ### Contatos 📫
-<div style="display: flex; gap: 24px; align-items: center; justify-content: center; margin-top: 16px;">
-  <a href="emerson.sp400@gmail.com" target="_blank" title="Gmail">
-    <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" height="40" alt="Gmail"/>
+## 🌐 Onde me encontrar
+<p align="left">
+  <a href="https://www.linkedin.com/in/emersonwlima">
+    <img src="https://img.shields.io/badge/LinkedIn-Emerson_Lima-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/emersonwlima/" target="_blank" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
+  <a href="https://github.com/emersonwlm">
+    <img src="https://img.shields.io/badge/GitHub-emersonwlm-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</div>
+</p>
+
 
 ---
 
-<img src="https://raw.githubusercontent.com/emersonwlm/emersonwlm/output/snake.svg" alt="Snake animation" />
+## 🧠 O que faço
+
+* ⚡ **Desenvolvimento Backend Corporativo** – Experiência com Java e o ecossistema Spring (Spring Boot, Spring Data JPA e Spring Security).
+* 🏗️ **Arquitetura de Software** – Aplicação de Clean Architecture, SOLID e padrões de projeto (MVC, Hexagonal).
+* 🗄️ **Persistência de Dados & SQL** – Modelagem de bancos de dados, otimização de consultas e ferramentas de migração (SQL Server, PostgreSQL e Hibernate).
+* 🔐 **Segurança & Autenticação** – Desenvolvimento de APIs seguras utilizando OAuth2, JWT e autenticação stateless.
+* 🐳 **Containerização & DevOps** – Empacotamento de aplicações com Docker e desenvolvimento de fluxos automatizados de CI/CD.
+* 🧪 **Testes Automatizados** – Desenvolvimento de testes com JUnit 5, Mockito e testes de integração para garantir a qualidade e a confiabilidade do código.
+* ☁️ **Tecnologias & Cloud** – Aprofundando conhecimentos em AWS, mensageria distribuída (Kafka/RabbitMQ) e frameworks cloud-native como Quarkus.
+
+---
+
+## 🛠️ Tecnologias
+
+### Backend & Frameworks
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring-boot\&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
+
+### Bancos de Dados & Infraestrutura
+
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge\&logo=microsoft-sql-server\&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+
+### Tecnologias em Estudo & Cloud
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white) ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge\&logo=quarkus\&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge\&logo=apache-kafka\&logoColor=white)
+
+---
+
+## 🚀 Filosofia
+
+> "Como engenheiro Backend, não escrevo apenas código; projeto sistemas. Minha missão é construir arquiteturas robustas, seguras e altamente disponíveis, que funcionem de forma eficiente nos bastidores, garantindo integridade dos dados e alto desempenho onde realmente importa."
+
+---
+
+🤝 Aberto a **projetos de alto impacto, desafios em Backend e oportunidades voltadas à engenharia e arquitetura de software**.
