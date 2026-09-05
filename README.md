@@ -1,6 +1,6 @@
 # Olá 👋🏽, sou Emerson!
 
-🚀 **Desenvolvedor Backend | Java & Spring Boot** 🇧🇷 Brasil
+🚀 **Desenvolvedor Backend | Java & Spring Boot** 🇧🇷 
 
 Atuo na construção de **soluções backend robustas, escaláveis e de alto desempenho**, com foco em **microsserviços, integridade de dados e código server-side limpo e eficiente**.
 
