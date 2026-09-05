@@ -8,7 +8,6 @@ Com uma abordagem orientada à lógica e à qualidade de código, priorizo **arq
 
 ---
 
-## 🌐 Onde me encontrar
 
 ## 🌐 Onde me encontrar
 
