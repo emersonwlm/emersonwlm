@@ -10,8 +10,6 @@ Com uma abordagem orientada à lógica e à qualidade de código, priorizo **arq
 
 ## 🌐 Onde me encontrar
 
-## 🌐 Onde me encontrar
-
 <p align="left">
   <a href="https://www.linkedin.com/in/emersonwlima">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32" />
