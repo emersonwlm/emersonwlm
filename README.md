@@ -11,7 +11,6 @@ Com uma abordagem orientada à lógica e à qualidade de código, priorizo **arq
 ## 🌐 Onde me encontrar
 <p align="left">
   <a href="https://www.linkedin.com/in/emersonwlima">
-    <img src="https://img.shields.io/badge/LinkedIn-Emerson_Lima-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/emersonwlm">
     <img src="https://img.shields.io/badge/GitHub-emersonwlm-181717?style=for-the-badge&logo=github&logoColor=white" />
